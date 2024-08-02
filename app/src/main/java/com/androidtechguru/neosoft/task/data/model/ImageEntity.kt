@@ -1,0 +1,1 @@
+package com.androidtechguru.neosoft.task.data.modeldata class ImageEntity(val url: String)

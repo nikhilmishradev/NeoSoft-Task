@@ -1,0 +1,1 @@
+package com.androidtechguru.neosoft.task.domain.repositoryimport com.androidtechguru.neosoft.task.domain.model.Imageimport com.androidtechguru.neosoft.task.domain.model.Iteminterface DataRepository {    suspend fun getItems(): List<Item>    suspend fun getImages(): List<Image>}

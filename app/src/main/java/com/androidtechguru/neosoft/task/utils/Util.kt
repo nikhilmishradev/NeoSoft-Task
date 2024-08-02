@@ -1,0 +1,1 @@
+package com.androidtechguru.neosoft.task.utilsfun String.convertURLToDrawable(): Int {    /** As we are using local image assets,     * we need to convert it to a drawable resource ID to display dummy image     */    return this.toInt()}

@@ -1,0 +1,1 @@
+package com.androidtechguru.neosoft.task.data.modeldata class Statistics(    val totalItems: Int=0,    val topCharacters: List<Pair<Char, Int>> = emptyList())
