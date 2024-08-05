@@ -8,6 +8,8 @@ Note: The Carousel Images & Items in a list can be of any value.
 * Dagger Hilt for DI
 * Kotlin Coroutines & flow
 
+Video Link:-> https://github.com/nikhilmishradev/NeoSoft-Task/blob/main/screenshots/NeoSoft-Task.mp4
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/user-attachments/assets/d91fa31b-462e-496a-ae2b-9da955376078" style="width:40%; height:800px; margin-right:10%;" />
   <img src="https://github.com/user-attachments/assets/a6d0c292-44f8-4d1c-9890-d0ad7639872b" style="width:40%;height:800px;" />
